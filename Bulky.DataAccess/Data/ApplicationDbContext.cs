@@ -134,6 +134,32 @@ namespace BulkyBook.DataAcess.Data
                     Price50 = 22,
                     Price100 = 20,
                     CategoryId = 3
+                },
+                new Product
+                {
+                    Id = 7,
+                    Title = "History of South Africa",
+                    Author = "William H. Worger",
+                    Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+                    ISBN = "9781317220329",
+                    ListPrice = 35,
+                    Price = 26,
+                    Price50 = 23,
+                    Price100 = 25,
+                    CategoryId = 3
+                },
+                new Product
+                {
+                    Id = 8,
+                    Title = "Perfect Storm",
+                    Author = "Paige Shelton",
+                    Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+                    ISBN = "9781250910462",
+                    ListPrice = 30,
+                    Price = 27,
+                    Price50 = 24,
+                    Price100 = 22,
+                    CategoryId = 1
                 }
                 );
         }

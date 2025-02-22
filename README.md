@@ -15,6 +15,13 @@ For enhanced security and access control, the platform utilizes **Microsoft Iden
 ## Live Link (Microsoft Azure)
 
 [Click here to access the live demo](https://bulky-live.azurewebsites.net)
+
+<!-- Admin User -->
+
+## Admin Credentials
+To access the admin panel, use the following crendentials:
+- **Username:** `admin@frank.com`
+- **Password:** `Admin123*`
  
 <!-- INSTALLATION -->
 
